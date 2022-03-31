@@ -2,16 +2,23 @@
     margin: 0;
     padding: 0;
 }
+header{
+    font-family: poppins;
+    color:rgb(255, 145, 0);
+    text-align: center;
+    padding: 50px;
+}
 
 .wrapper {
     position: absolute;
     top: 200px;
-    left: 620px;
+    left: 550px;
+    text-align: center;
 
 }
 
 .kalkulator {
-    background: burlywood;
+    background: rgb(255, 145, 0);
     padding: 10px;
     border-radius: 4px;
 }
@@ -58,5 +65,5 @@
     color: white;
 }
 body{
-    background-color: aquamarine;
+    background-color: rgb(4, 80, 131);
 }
